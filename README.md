@@ -1,7 +1,7 @@
 # 👋 你好，我是 Tao Tian（田涛）
 
 🎯 **后端开发工程师 | 云计算与分布式系统爱好者**  
-悉尼大学（The University of Sydney）信息技术硕士
+悉尼大学（The University of Sydney）计算机科学硕士
 
 ---
 
@@ -10,7 +10,6 @@
 - 💻 热衷于 **高性能后端开发、分布式架构设计与云原生应用**  
 - ☁️ 熟悉 **AWS 云服务（EC2、S3、Lambda、ALB、ASG、DynamoDB）**  
 - 🔧 掌握 **Java / Spring Boot / MySQL / Netty / Zookeeper / RabbitMQ**  
-- 📱 具备 Android 全栈开发经验（Kotlin + Firebase）  
 - 🌱 目前在研究 **JVM 性能调优、系统设计与高并发架构优化**  
 
 ---
