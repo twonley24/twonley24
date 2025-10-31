@@ -33,7 +33,7 @@
 - 架构设计：ALB + ASG 实现多可用区高可用负载均衡  
 - 安全合规：通过 Secrets Manager 管理访问凭据  
 - 成果：系统实现自动扩缩容，99.9% 可用性  
-📎 [查看仓库 »](https://github.com/twonley24/aws-highavailability-arch) *(计划新增仓库，仅含架构图与文档)*
+📎 [查看仓库 »]([https://github.com/twonley24/aws-highavailability-arch](https://github.com/twonley24/AWS-Deployment-Project)) *(计划新增仓库，仅含架构图与文档)*
 
 ---
 
