@@ -47,7 +47,7 @@
 
 ## 🧠 技术栈
 
-**后端开发：** Java · Spring Boot · MySQL · Netty · Zookeeper · RabbitMQ  
+**后端开发：** Java · Spring Boot · MySQL · Netty · Zookeeper
 **前端框架：** React · Next.js · Vue3 · TypeScript  
 **云与运维：** AWS · Docker · GitHub Actions  
 **工具链：** Maven · IntelliJ IDEA · VSCode · Linux · Postman
